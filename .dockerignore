@@ -1,0 +1,6 @@
+.gitignore
+docker-compose.yml
+Dockerfile
+Makefile
+README.md
+.streamlit/secrets_sample.toml
